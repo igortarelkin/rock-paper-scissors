@@ -1,0 +1,12 @@
+.playersWindow {
+   display:flex;
+   
+}
+.window{
+    padding: 2rem 2rem;
+}
+
+img{
+    border-radius: 10px;
+    opacity: 0.8;
+}

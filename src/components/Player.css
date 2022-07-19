@@ -1,0 +1,19 @@
+.wrapper{   
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    
+}
+
+button{
+    margin: 30px;
+    border-radius: 15px;
+    background-color: rgb(250, 243, 213);
+    padding: 20px 20px;
+    border-style: none;
+}
+
+button:hover{
+    background-color: rgb(186, 175, 127);
+    cursor:pointer
+}
